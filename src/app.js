@@ -13,10 +13,10 @@ window.onload = function() {
   console.log("Hello Rigo from the console!");
 };
 let generateExcuse = function() {
-  let pronoun = ["A", "The", "My"];
-  let who = ["dog", "cat", "mother", "clown", "tree"];
-  let action = ["took", "hit", "yelled at", "laughed at", "fell at"];
-  let what = ["my wallet", "my vase", "a computer", "my face", "my car"];
+  let pronoun = ["A ", "The ", "My "];
+  let who = ["dog ", "cat ", "mother ", "clown ", "tree "];
+  let action = ["took ", "hit ", "yelled at ", "laughed at ", "fell at "];
+  let what = ["my wallet ", "my vase ", "a computer ", "my face ", "my car "];
   let when = [
     "in the morning",
     "while in the street",
