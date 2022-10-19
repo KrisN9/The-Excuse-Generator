@@ -14,7 +14,7 @@ window.onload = function() {
 };
 let generateExcuse = function() {
   let pronoun = ["A ", "The ", "My "];
-  let who = ["dog ", "cat ", "mother ", "clown ", "tree "];
+  let who = ["dog ", "cat ", "woman ", "clown ", "tree "];
   let action = ["took ", "hit ", "yelled at ", "laughed at ", "fell at "];
   let what = ["my wallet ", "my vase ", "a computer ", "my face ", "my car "];
   let when = [
